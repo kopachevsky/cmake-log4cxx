@@ -1,0 +1,1 @@
+log4cxx and cmake starter project
